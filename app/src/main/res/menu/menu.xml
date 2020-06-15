@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/genreListFragment"
+        android:icon="@drawable/ic_genre_24dp"
+        android:title="Genre"/>
+
+    <item
+        android:id="@id/newBookFragment"
+        android:icon="@drawable/ic_time_black_24dp"
+        android:title="New Book"/>
+</menu>
